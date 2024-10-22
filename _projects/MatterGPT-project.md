@@ -11,7 +11,7 @@ people:
 
 layout: project
 image: /img/projects/wangjiao.jpg
-last-updated: 2024-08-08
+last-updated: 2000-08-08
 link: https://www.themoviedb.org/movie/704964?language=zh-CN
 ---
 

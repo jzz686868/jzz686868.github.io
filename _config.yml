@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 影视作品 Works
+  - title: 音乐作品 Works
     link: /research.html
   - title: 奖项 Awards
     link: /publications.html

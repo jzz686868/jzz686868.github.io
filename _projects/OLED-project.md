@@ -1,20 +1,19 @@
 ---
-title: 新型OLED材料的高通量量子化学预测与筛选 Discovery of new organic light-emitting diode (OLED) materials with high-throughput screening
-
+title: 《大佬爱美丽》是由冯德伦执导，吴彦祖、陈奕迅、莫文蔚、杜汶泽、罗家英、冯德伦领衔主演的喜剧电影，于2004年4月8日在中国香港上映。
+该片讲述了乔治不愿接替父亲的黑帮大佬位置，反倒让其好友Sam冒名顶替，从而闹出了一系列笑话的故事。
 notitle: false
 
 description: |
 
 people:
-  - profx
-  - chenxi
+  - Eson Chan
+  - Yanzu Wu
 
 layout: project
-image: /img/projects/oled.png
-last-updated: 2020-01-26
+image: /img/projects/dalao.png
+last-updated: 2004-04-08
 ---
 
 ## 简介 Introduction
 
-与国内一线OLED供应商合作，借助高通量量子化学计算及数据驱动方法，我们开展了新型OLED材料的预测研究。现在该项目正在研发中。
-
+善良的Georgie（吴彦祖饰），虽然一表人才，身上却藏有一个天地不容的秘密，足以令老父洪一（元彪饰）的龙头地位不保，帮会内讧解体。为顾全大局，洪一把Georgie放逐他乡，严令他有生之年不准回香港。春去求来，Georgie终于等到洪一归天之日，心情矛盾之余，也喜见归港有期。同室的Sam（陈奕迅饰）被Georgie的翩翩风度，对异性挥洒自如，又不失君子礼仪的泡妞绝技，深深爱慕，更视他为知己偶像。Sam自愧不如，更常因好色而得罪各路英雄，故身上没有一寸完好肌肤，非紫即黑。他发誓倒霉多年，只为等一个“发威”机会，就算死也无憾。

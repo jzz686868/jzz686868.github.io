@@ -5,8 +5,8 @@ notitle: false
 description: |
 
 people:
-  - Eson Chan
-  - Yanzu Wu
+  - chenyixun
+  - wuyanzu
 
 layout: project
 image: /img/projects/dalao.png

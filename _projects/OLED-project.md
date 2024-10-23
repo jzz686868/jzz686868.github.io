@@ -9,7 +9,7 @@ people:
   - wuyanzu
 
 layout: project
-image: /img/projects/dalao.png
+image: /img/projects/dalao.jpg
 last-updated: 2004-04-08
 link: https://baike.baidu.com/item/%E5%A4%A7%E4%BD%AC%E7%88%B1%E7%BE%8E%E4%B8%BD/6872646?fromModule=lemma_inlink#lemma-summary
 ---

@@ -31,15 +31,12 @@ rongzuer:
     role: grad
     image: /img/people/rongzuer.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+liuhaolong:
+    display_name: "刘浩龙 Wilfred Lau Ho Lung"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/liuhaolong.jpg
 
-storm:
-    display_name: "虚位以待  We need you!"
-    role: grad
-    image: /img/people/need.png
+
 
 
 
@@ -49,37 +46,37 @@ alum-a:
     bio: "Ph.D., 2013. Now at Microsoft Research."
 
 
-chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+kekoukele:
+    display_name: "可口可乐 coca-cola "
     role: collab
 
 
-xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+maidanglao:
+    display_name: "麦当劳 McDonald"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "阿迪达斯 Adidas"
     role: collab
     
-liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+audi:
+    display_name: "奥迪 Audi"
     role: collab
 
-chenyan:
-    display_name: "陈炎 Yan Chen"
+bose:
+    display_name: "博士音响 Bose"
     role: collab
     
-juzheng:
-    display_name: "宋居正 Juzheng Song"
+fujifilm:
+    display_name: "富士胶卷 Fujifilm"
     role: collab
 
-yayun:
-    display_name: "张亚运 Yayun Zhang"
+baishikele:
+    display_name: "百事可乐 Pepsi"
     role: collab
 
-dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+Mizuno:
+    display_name: "美津浓 Mizuno"
     role: collab
     
 

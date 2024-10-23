@@ -6,7 +6,7 @@ notitle: false
 description: |
 
 people:
-  - Eson
+  - chenyixun
 
 layout: project
 image: /img/projects/fanzheng.jpg

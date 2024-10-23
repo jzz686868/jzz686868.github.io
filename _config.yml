@@ -14,9 +14,9 @@ roles:
   - key: faculty
     name: 本人 He
   - key: grad
-    name: 同事 Colleagues
+    name: 好友 Friends
   - key: ugrad
-    name: 圈内好友 Friends
+    name: 同事 Colleagues
   - key: collab
     name: 合作品牌 Brands
 
